@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2900" height="2450">
+	<defs></defs>
+	<g fill="none" fill-rule="nonzero" stroke="none" stroke-width="none" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="sans-serif" font-weight="normal" font-size="11px" text-anchor="start" style="mix-blend-mode: normal">
+		<g fill="#ffffff" stroke="none" stroke-width="1"></g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g fill="#ffffff" stroke="none" stroke-width="1">
+			<rect x="0" y="0" width="2900" height="2450"></rect>
+		</g>
+		<g>
+			<rect x="0" y="0" width="2900" height="2450" fill="#ffffff" stroke="none" stroke-width="1"></rect>
+			<g>
+				<ellipse cx="389" cy="127.5" rx="31" ry="28.5" fill="#fb6d4f" stroke="#bbbbbb" stroke-width="1.5"></ellipse>
+				<ellipse cx="464" cy="127.5" rx="31" ry="28.5" fill="#e17469" stroke="#bbbbbb" stroke-width="1.5"></ellipse>
+				<ellipse cx="539" cy="127.5" rx="31" ry="28.5" fill="#c77b83" stroke="#bbbbbb" stroke-width="1.5"></ellipse>
+			</g>
+		</g>
+		<g transform="translate(633,111)">
+			<rect height="100" width="8" rx="0" ry="0" class="color-scale-gradient" style='fill: url("#gradient-Ellipse13"); pointer-events: none; stroke-width: 1;' stroke="#888"></rect>
+			<text class="color-scale-label" y="-14" dy="0.3em" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">value</text>
+			<g transform="translate(26,-9.999999999999998)">
+				<path d="M-14,12h6" fill="none" stroke="#888"></path>
+				<text dy="0.3em" y="12" x="-6" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">3</text>
+				<defs>
+					<linearGradient id="gradient-Ellipse13" x1="0" y1="0" x2="0" y2="1">
+						<stop offset="2.0000000000000018%" stop-color="#a50f15"></stop>
+						<stop offset="26%" stop-color="#de2d26"></stop>
+						<stop offset="50%" stop-color="#fb6a4a"></stop>
+						<stop offset="74%" stop-color="#fcae91"></stop>
+						<stop offset="98%" stop-color="#fee5d9"></stop>
+					</linearGradient>
+				</defs>
+			</g>
+			<g transform="translate(26,14)">
+				<path d="M-14,12h6" fill="none" stroke="#888"></path>
+				<text dy="0.3em" y="12" x="-6" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">2.5</text>
+				<defs></defs>
+			</g>
+			<g transform="translate(26,38)">
+				<path d="M-14,12h6" fill="none" stroke="#888"></path>
+				<text dy="0.3em" y="12" x="-6" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">2</text>
+				<defs></defs>
+			</g>
+			<g transform="translate(26,62)">
+				<path d="M-14,12h6" fill="none" stroke="#888"></path>
+				<text dy="0.3em" y="12" x="-6" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">1.5</text>
+				<defs></defs>
+			</g>
+			<g transform="translate(26,86)">
+				<path d="M-14,12h6" fill="none" stroke="#888"></path>
+				<text dy="0.3em" y="12" x="-6" fill="#444" style="font-size: 10px; font-family: Arial, sans-serif;">1</text>
+				<defs></defs>
+			</g>
+		</g>
+	</g>
+</svg>
